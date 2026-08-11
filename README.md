@@ -89,4 +89,4 @@ ip -brief addr show <interface>
 
 ## License
 
-MIT (or update to match your project's license).
+MIT
